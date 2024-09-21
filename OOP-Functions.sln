@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asag_OOP-Functions", "Asag_OOP-Functions.csproj", "{33E74F83-6F77-4932-8F65-5114BB97BDB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Functions", "OOP-Functions.csproj", "{33E74F83-6F77-4932-8F65-5114BB97BDB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
